@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 public class MainClass {
 
 	public static void main(String[] args) {
-		JFrame window = new JFrame("BATTLESHIP");
+		JFrame window = new JFrame("BATTLESHIP GAME");
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setSize(Panel.WIDTH, Panel.HEIGHT);
 		window.add(new Panel());
