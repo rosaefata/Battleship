@@ -47,7 +47,7 @@ public class MenuState extends GameState{
 		this.gsm = gsm;
 		try {
 		
-			font = new Font("Berlin Sans FB Demi", Font.PLAIN, 30);
+			font = new Font("Comic Sans MS", Font.PLAIN, 30);
 		}
 		catch(Exception e) {
 			e.printStackTrace();  
